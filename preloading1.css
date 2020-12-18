@@ -9,12 +9,12 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	background: #fff;
+	background: #e2b8e6;
 	text-align: center;
-	-webkit-transition: opacity 1s ease;
-	-moz-transition: opacity 1s ease;
-	-o-transition: opacity 1s ease;
-	transition: opacity 1s ease
+	-webkit-transition: opacity 1.5s ease;
+	-moz-transition: opacity 1.5s ease;
+	-o-transition: opacity 1.5s ease;
+	transition: opacity 1.5s ease
 }
 
 .loading-image {
